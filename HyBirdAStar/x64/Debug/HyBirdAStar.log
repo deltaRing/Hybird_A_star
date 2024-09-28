@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Algorithm\ReedsSheppPath.hpp(558,34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(14,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(14,61): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(15,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(15,61): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(17,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(18,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(20,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(21,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\Define\Config.hpp(22,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(96,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(97,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(124,12): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(124,12): warning C4244:         with
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(124,12): warning C4244:         [
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(124,12): warning C4244:             _Ty=double
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(124,12): warning C4244:         ]
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(144,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\DynamicProgramingHeuristic.hpp(143,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(22,34): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(99,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(208,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(225,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(226,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(227,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(272,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(282,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(293,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(323,8): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(322,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(335,8): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(334,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(371,12): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(371,12): warning C4244:         with
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(371,12): warning C4244:         [
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(371,12): warning C4244:             _Ty=double
+C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\HybirdAstar.hpp(371,12): warning C4244:         ]
+  HyBirdAStar.vcxproj -> C:\Users\E1ysium\Desktop\PathPlanner\HyBirdAStar\x64\Debug\HyBirdAStar.exe
